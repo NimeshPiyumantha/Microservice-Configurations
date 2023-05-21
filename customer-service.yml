@@ -20,7 +20,7 @@ spring:
 #    import: optional:configserver:http://localhost:8085/
 
 server:
-  port: 8081
+  port: 8084
 
 info:
   app:
